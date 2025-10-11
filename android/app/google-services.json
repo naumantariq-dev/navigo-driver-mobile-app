@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "864608395746",
+    "firebase_url": "https://navigo-taxi-default-rtdb.firebaseio.com",
+    "project_id": "navigo-taxi",
+    "storage_bucket": "navigo-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864608395746:android:48c65328c2336bf2b859bb",
+        "android_client_info": {
+          "package_name": "com.navigodrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864608395746-npvlve6abf90hkvbevpioq16d0n7b300.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navigodrivers",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "864608395746-mgu26rcs616f8fa6137sp44g5s08gk8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uGTbcmN-4ITl51RHQFBRxOKSKDi_R2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864608395746-mgu26rcs616f8fa6137sp44g5s08gk8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
